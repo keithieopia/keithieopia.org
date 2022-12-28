@@ -10,17 +10,17 @@ function dayOfYear() {
 function ordinal_suffix_of(i) {
   // https://stackoverflow.com/a/13627586
   var j = i % 10, k = i % 100;
-  
+
   if (j == 1 && k != 11) {
     return "st";
   }
   if (j == 2 && k != 12) {
     return "nd";
   }
-  if (j == 3 && k != 13) { 
+  if (j == 3 && k != 13) {
     return "rd";
   }
-  
+
   return "th";
 }
 
@@ -74,28 +74,8 @@ function keithDay() {
         break;
     }
   }
-
   else {
-    switch (dn) {
-      case 361:
-        return "Unimid";
-        break;
-      case 362:
-        return "Duomid";
-        break;
-      case 363:
-        return "Trimid";
-        break;
-      case 364:
-        return "Quamid";
-        break;
-      case 365:
-        return "Penmid";
-        break;
-      case 366:
-        return "Hexmid";
-        break;
-    }
+    return "";
   }
 }
 
@@ -109,7 +89,26 @@ function keithMonth() {
   var dn = dayOfYear();
 
   if (dn > 360) {
-    return "Year Week";
+    switch (dn) {
+        case 361:
+          return "Unimid";
+          break;
+        case 362:
+          return "Duomid";
+          break;
+        case 363:
+          return "Trimid";
+          break;
+        case 364:
+          return "Quamid";
+          break;
+        case 365:
+          return "Penmid";
+          break;
+        case 366:
+          return "Hexmid";
+          break;
+    }
   }
   else {
     switch (Math.floor((dn / 31) + 1)) {
@@ -141,22 +140,26 @@ function keithMonth() {
   }
 }
 
-//document.addEventListener('DOMContentLoaded', function () {
 window.onload = function() {
   setTime();
   setDate();
   setInterval(setTime, 1000);
-  setInterval(setHTML, 600000);
+  setInterval(setDate, 600000);
 
   function setTime() {
     document.querySelectorAll('#clock')[0].innerHTML =  dayOfYear() + decimalTime();
   }
 
   function setDate() {
-    document.querySelectorAll('#date')[0].innerHTML =  keithDay() + ", " + keithDate() +
+    var dn = dayOfYear();
+    if (dn > 360) {
+      document.querySelectorAll('#date')[0].innerHTML = keithMonth() + " " + keithYear() + "<sup>IY</sup>";
+    }
+    else {
+      document.querySelectorAll('#date')[0].innerHTML =  keithDay() + ", " + keithDate() +
                                                        "<sup>" + ordinal_suffix_of(keithDate()) + "</sup> " +
                                                        keithMonth() + " " + keithYear() + "<sup>IY</sup>";
+    }
   };
 }
-//}, false);
 
