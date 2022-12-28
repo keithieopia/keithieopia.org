@@ -3,7 +3,7 @@ function dayOfYear() {
   var now = new Date();
   var start = new Date(now.getFullYear(), 0, 0);
   var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
-  var oneDay = 1000 * 60 * 60 * 24;
+  const oneDay = 1000 * 60 * 60 * 24;
   return Math.floor(diff / oneDay);
 }
 
@@ -11,13 +11,13 @@ function ordinal_suffix_of(i) {
   // https://stackoverflow.com/a/13627586
   var j = i % 10, k = i % 100;
 
-  if (j == 1 && k != 11) {
+  if (j === 1 && k !== 11) {
     return "st";
   }
-  if (j == 2 && k != 12) {
+  if (j === 2 && k !== 12) {
     return "nd";
   }
-  if (j == 3 && k != 13) {
+  if (j === 3 && k !== 13) {
     return "rd";
   }
 
@@ -38,7 +38,7 @@ function decimalTime() {
 function keithDate() {
   dn = dayOfYear();
 
-  if ((dn % 30) == 0) {
+  if ((dn % 30) === 0) {
     return 30;
   }
   else {
@@ -90,24 +90,24 @@ function keithMonth() {
 
   if (dn > 360) {
     switch (dn) {
-        case 361:
-          return "Unimid";
-          break;
-        case 362:
-          return "Duomid";
-          break;
-        case 363:
-          return "Trimid";
-          break;
-        case 364:
-          return "Quamid";
-          break;
-        case 365:
-          return "Penmid";
-          break;
-        case 366:
-          return "Hexmid";
-          break;
+      case 361:
+        return "Unimid";
+        break;
+      case 362:
+        return "Duomid";
+        break;
+      case 363:
+        return "Trimid";
+        break;
+      case 364:
+        return "Quamid";
+        break;
+      case 365:
+        return "Penmid";
+        break;
+      case 366:
+        return "Hexmid";
+        break;
     }
   }
   else {
@@ -140,7 +140,7 @@ function keithMonth() {
   }
 }
 
-window.onload = function() {
+window.onload = function () {
   setTime();
   setDate();
   setInterval(setTime, 1000);
