@@ -8,9 +8,31 @@ self-proclamed extraterritorial chain of islands. Its shores are several creeks 
 State of Maryland.
 
 ## History
-Keithieopia began as a informal creative writing project. Enjoyed by the teachers, the project met mixed reactions
-amongst peers... until they started forming their own nations. Keithieopia has always been a living project and now 
-the Dominion boasts four times its initial population.
+First an autocracy, the founding ideals of the nation were developed mid-November 2002 on *Jennifer Government: 
+NationStates* (the nation was considered a "Father Knows Best State"). The nation at this point was named simply
+Keithieopia and Keith named himself Benevolent Dictator.
+
+Challenging Keith offline, founding fathers Allen Price and Justin Sloan encouraged Keith to form a proper code of 
+laws for the nation. On January 3rd, 2002, Keith adopted such, officially and formally forming Keithieopia.
+
+### Empire Begins
+On July 30th 2006, Keith formed the Empire of Keithieopia, after the nation outlived several smaller nations formed 
+at Keith's school. Those nation's laws and ideals were adopted into the Empire's code of laws. The Empire at this 
+point was an absolute monarchy with a very limited constitution.
+
+### Second Constitution
+In 2010, As the Realm's constitution was amended and the code of laws developed, a set of fundamental rights emerged. 
+The Empire was rebranded as a semi-constitutional monarchy named the Keithieopian Realm, due to the sparseness of its 
+land claims at the time: one in Virginia and one in Maryland.
+
+Tragedy struck when the computer that housed the national documents was damaged in transit on route to the Maryland 
+territory, resulting in a loss of the original constitution.
+
+### Current Era
+On January 27th, 2021 with the signing of the current third constitution, the Realm became the Dominion of Keithieopia 
+and a constitutional monarchy, limiting the Emperor's powers.
+
+The nation acquired a new domain name, joined Microwiki, and started forming diplomatic ties in late December 2022.
 
 ## Land
 
