@@ -20,19 +20,35 @@ On July 30th 2006, Keith formed the Empire of Keithieopia, after the nation outl
 at Keith's school. Those nation's laws and ideals were adopted into the Empire's code of laws. The Empire at this 
 point was an absolute monarchy with a very limited constitution.
 
+
 ### Second Constitution
-In 2010, As the Realm's constitution was amended and the code of laws developed, a set of fundamental rights emerged. 
-The Empire was rebranded as a semi-constitutional monarchy named the Keithieopian Realm, due to the sparseness of its 
-land claims at the time: one in Virginia and one in Maryland.
+
+<div class="col-md-3 text-center float-end m-2">
+    <img class="img-thumbnail" src="/assets/flags/realm.png">
+    <span class="text-muted">Keithieopian Realm Flag</span>
+</div> 
+
+In 2010, As the Realm's [second constitution](//wiki.keithieopia.org/doku.php?id=second_constitution_of_the_keithieopian_realm) 
+was ratified and the code of laws developed, a set of fundamental rights emerged. The Empire was rebranded as a 
+semi-constitutional monarchy named the Keithieopian Realm, due to the sparseness of its land claims at the time: 
+one in Virginia and one in Maryland.
 
 Tragedy struck when the computer that housed the national documents was damaged in transit on route to the Maryland 
 territory, resulting in a loss of the original constitution.
 
+
 ### Current Era
-On January 27th, 2021 with the signing of the current third constitution, the Realm became the Dominion of Keithieopia 
+
+<div class="col-md-3 text-center float-end m-2">
+    <img class="img-thumbnail" src="/assets/flags/dominion.png">
+    <span class="text-muted">Dominion of Keithieopian Flag</span>
+</div> 
+
+On January 27th, 2021 with the signing of the [current third constitution](/?constitution), the Realm became the Dominion of Keithieopia 
 and a constitutional monarchy, limiting the Emperor's powers.
 
-The nation acquired a new domain name, joined Microwiki, and started forming diplomatic ties in late December 2022.
+The nation acquired a new domain name, joined Microwiki, and started forming [diplomatic ties](/?foreign_relations) in late December 2022.
+
 
 ## Land
 
