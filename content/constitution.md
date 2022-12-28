@@ -7,12 +7,12 @@ Hidden: true
 
 
 ## Preamble
-* *Whereas* founding fathers Allen Price and Justin Sloan encouraged the creation of a Constitution and Code of Laws for the newly founded Dominion of Keithieopia in 2002; and
-* *Whereas* a nation's continuing existence is maintained by people's will; and
-* *Whereas* a nation's sole purpose is to promote the welfare of all its people; therefore be it
-* *Resolved* that the emperor derives their power through the people's will, and
-* *Resolved* that the people strengthen their nation's under this thirdly revised constitution; and
-* *Resolved* that I, Emperor Keith of the Dominion of Keithieopia, first citizen of Keithieopia, do therefore sign this Constitution as the supreme law of the land.
+  - *Whereas* founding fathers Allen Price and Justin Sloan encouraged the creation of a Constitution and Code of Laws for the newly founded Dominion of Keithieopia in 2002; and
+  - *Whereas* a nation's continuing existence is maintained by people's will; and
+  - *Whereas* a nation's sole purpose is to promote the welfare of all its people; therefore be it
+  - *Resolved* that the emperor derives their power through the people's will, and
+  - *Resolved* that the people strengthen their nation's under this thirdly revised constitution; and
+  - *Resolved* that I, Emperor Keith of the Dominion of Keithieopia, first citizen of Keithieopia, do therefore sign this Constitution as the supreme law of the land.
 
 <center>
   <img class="col-md-3" src="/assets/signature.png"><br>
@@ -24,17 +24,17 @@ Hidden: true
   
 ## Title I: The Nation's Identity
 ### Article 1:
-* The Dominion of Keithieopia continues to be a sovereign and independent nation in the framework of the general principles of international law,
-* Independence was achieved in January 3rd, 2002.
+  - The Dominion of Keithieopia continues to be a sovereign and independent nation in the framework of the general principles of international law,
+  - Independence was achieved in January 3rd, 2002.
 
 ### Article 2:
-* This document may be cited as "The Third Constitution of the Dominion of Keithieopia", or generically, the "Constitution",
-* Prior constitutions, code of laws, and all other state documents are immediately repealed,
-* The provisions in this Constitution shall commence and take effect immediately.
+  - This document may be cited as "The Third Constitution of the Dominion of Keithieopia", or generically, the "Constitution",
+  - Prior constitutions, code of laws, and all other state documents are immediately repealed,
+  - The provisions in this Constitution shall commence and take effect immediately.
 
 ### Article 3:
-* The nation's full name is the "Dominion of Keithieopia",
-* The people who make up the nation are known to be Keithieopian.
+  - The nation's full name is the "Dominion of Keithieopia",
+  - The people who make up the nation are known to be Keithieopian.
 
 ### Article 4:
 The National flag is composed of four bars of equal proportion, one teal, one dark forest green, and two white. 
@@ -70,10 +70,10 @@ The transfer of the Crown, initiated by the death or the renunciation, operates 
 
 ### Article 2:
 Should the current Emperor fail to name a successor, the title shall go in order of preference to:
-* Their spouse, or
-* Their children, by order of primogeniture,
-* The Premier, or
-* The most senior Assemblymember
+  - Their spouse, or
+  - Their children, by order of primogeniture,
+  - The Premier, or
+  - The most senior Assemblymember
 
 ### Article 3:
 The transfer of the Crown, can only by operated to the benefice of a person which has citizenship on the day of the initiation of the transfer.
@@ -102,20 +102,20 @@ The Emperor can exercise the right of pardon and amnesty, as well as the right o
 
 ### Article 1:
 No person shall be denied any right or discriminated on the basis of their: 
-* race, 
-* color, 
-* gender, 
-* sexual orientation, 
-* national or social origin, 
-* or any other identifier inherited at birth, bodily or not.
+  - race, 
+  - color, 
+  - gender, 
+  - sexual orientation, 
+  - national or social origin, 
+  - or any other identifier inherited at birth, bodily or not.
 
 ### Article 2:
 No law shall be passed that restricts the freedom of expression on the basis of 
-* religious beliefs, 
-* political beliefs, 
-* creeds, 
-* personal values, 
-* or opinions. 
+  - religious beliefs, 
+  - political beliefs,
+  - creeds, 
+  - personal values, 
+  - or opinions. 
  
 The establishment or exercise thereof is protected under law.
 
@@ -309,6 +309,5 @@ At no time may the constitution be suspended
 
 ### Article 2:
 The total or partial revision of the present Constitution is subordinated to the common accord of the Emperor and the National Assembly.
-
 
 <div class="align-right"><sup><abbr title="Keithieopian Control Number">KCN</abbr>-2022-01<sup></div>
