@@ -1,0 +1,45 @@
+body { min-height: 100vh; }
+
+.bg-teal {
+  background-color: #008c9e;
+}
+.bg-green {
+  background-color: #042608;
+}
+.text-green, a:hover.text-green, a:visited.text-green {
+  color: #042608;
+}
+.text-teal, a:hover.text-teal, a:visited.text-teal {
+  color: #008c9e;
+}
+.invert {
+  filter: invert(100%);
+}
+.fnt-barlow {
+  font-family: "Barlow Condensed";
+}
+.logo { 
+  height: 5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Anton";
+  color: #008c98;
+}
+
+.text-small-caps {
+  font-variant: small-caps;
+}
+
+a,a:visited {
+  color: #008c98;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #008c98;
+  text-decoration: underline;
+  opacity: .80;
+  transition: .5s;
+}
+
