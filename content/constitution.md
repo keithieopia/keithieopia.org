@@ -258,6 +258,8 @@ The Chancellery reunites at least twice a year on convocation by the Emperor. Th
 ### Article 4:
 The Chancellery can be consulted by the Emperor on the questions concerning the interests of the Dominion. It can present to the Emperor suggestions. It is obligatorily consulted on the following matters: international treaties, dissolution of the National Assembly, pardon, and amnesty.
 
+---
+
 ## Title X: Shires
 
 ### Article 1:
