@@ -42,7 +42,7 @@ territory, resulting in a loss of the original constitution.
 
 <div class="col-md-2 text-center float-end m-2">
   <img class="img-thumbnail" src="/assets/flags/dominion.png">
-  <span class="text-muted">Dominion of Keithieopian Flag</span>
+  <span class="text-muted">Dominion of Keithieopia Flag</span>
 </div>
 
 ### Current Era
