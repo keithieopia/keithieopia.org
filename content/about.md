@@ -7,6 +7,11 @@ The Dominion of Keithieopia is an independent and sovereign state located in Nor
 self-proclamed extraterritorial chain of islands. Its shores are several creeks of the Patuxent River in the 
 State of Maryland.
 
+<div class="col-md-2 text-center float-end m-2">
+  <img class="img-thumbnail" src="/assets/flags/keithieopia.png">
+  <span class="text-muted">Keithieopia Flag</span>
+</div> 
+
 ## History
 First an autocracy, the founding ideals of the nation were developed mid-November 2002 on *Jennifer Government: 
 NationStates* (the nation was considered a "Father Knows Best State"). The nation at this point was named simply
