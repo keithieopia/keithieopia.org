@@ -66,7 +66,7 @@ Under customary international law, the doctrine of contiguity, and the 1958 Gene
 *res nullius*, or territory owned by no one. A *res nullius* may be claimed through occupation or discovery. 
 
 On December 22th, 2022 the Dominion of Keithieopia publicly and formally [annexed](/?territory#mar-jose-isles) the 
-first two, naming them the Isle of Mar and the Isle of Jose. The third island, Isle of Ellen, was [annexed](/?territory#isle-of-ellen) 
+first two, naming them the Isle of Mar and the Isle of Jose. The third island, Ellen Isle, was [annexed](/?territory#isle-of-ellen) 
 immediately after it was found. Split Isle lays in close proximity, just above Ellen Isle. Since Split Isle has rightful property owners, it was 
 granted [protectorate status](/?territory#split-isle).
 
@@ -85,4 +85,4 @@ granted [protectorate status](/?territory#split-isle).
 </div>
 
 Besides the claims to the Isles, the Dominion has two palaces. One is located in the Twin Beaches and is the Imperial
-Palace, the other is home to Duke Allen and Duchess Jane.
+Palace, the other is home to Duke Allen and Duchess Jane, the Emperor's parents.
