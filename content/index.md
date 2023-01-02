@@ -54,7 +54,7 @@
           <li><i class="fa fa-li fa-scroll"></i> <a href="/?constitution">Constitution</a>
           <li><i class="fa fa-li fa-bullhorn"></i> <a href="/?independence">Reaffirmation of Independence</a>
           <li><i class="fa fa-li fa-section"></i> <a href="//wiki.keithieopia.org/doku.php?id=keithieopian_journal">Code of Laws</a>
-          <li><i class="fa fa-li fa-handshake"></i> <a href="/?diplomacy">Diplomatic Communiqué</a>
+          <li><i class="fa fa-li fa-handshake"></i> <a href="/?diplomacy">Diplomacy</a>
 	  <li><i class="fa fa-li fa-house-flag"></i> <a href="/?territory">Territorial Claims</a>
           <li><i class="fa fa-li fa-book"></i> <a href="//wiki.keithieopia.org">Online Library System</a>
         </ul>

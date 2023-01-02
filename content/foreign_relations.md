@@ -29,3 +29,27 @@ Diplomatic communique issued by the Dominion can be [found here](/?diplomacy).
     <img class="img-thumbnail" src="/assets/flags/salanda.png">
   </div>
 </div>
+<div class="row">
+  <div class="col-md-3">
+    The Emirate of Almajidistan
+  </div>
+  <div class="col-md-3">
+    <img class="img-thumbnail" src="/assets/flags/almajidistan.png">
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    The Fesmarian Union
+  </div>
+  <div class="col-md-3">
+    <img class="img-thumbnail" src="/assets/flags/fesmar.jpg">
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-3">
+    Hokoria
+  </div>
+  <div class="col-md-3">
+    <img class="img-thumbnail" src="/assets/flags/hokoria.png">
+  </div>
+</div>
