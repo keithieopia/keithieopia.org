@@ -1,6 +1,10 @@
+function getDate() {
+  return new Date(new Date().toLocaleString('en-US', 'America/New_York'));
+}
+
 function dayOfYear() {
   // https://stackoverflow.com/a/8619946
-  var now = new Date();
+  var now = getDate();
   var start = new Date(now.getFullYear(), 0, 0);
   var diff = (now - start) + ((start.getTimezoneOffset() - now.getTimezoneOffset()) * 60 * 1000);
   const oneDay = 1000 * 60 * 60 * 24;
@@ -25,7 +29,7 @@ function ordinal_suffix_of(i) {
 }
 
 function decimalTime() {
-  var now = new Date();
+  var now = getDate();
 
   var h = now.getHours() * 3600;
   var m = now.getMinutes() * 60;
@@ -80,7 +84,7 @@ function keithDay() {
 }
 
 function keithYear() {
-  var now = new Date();
+  var now = getDate();
   var y = now.getFullYear();
   return (y - 2002);
 }
