@@ -70,19 +70,25 @@ first two, naming them the Isle of Mar and the Isle of Jose. The third island, E
 immediately after it was found. Split Isle lays in close proximity, just above Ellen Isle. Since Split Isle has rightful property owners, it was 
 granted [protectorate status](/?territory#split-isle).
 
+In total, the Dominion lays claim to 3.19 acres or 12927 m<sup>2 of land</sup>
+
 <div class="row mb-4">
   <div class="offset-md-1 col-md-3 text-center">
     <h5>Isle of Mar</h5>
     <img class="img-fluid img-thumbnail" src="/assets/territory/isle-of-mar.png">
+    175 sq. ft / 30 m<sup>2</sup>
   </div>
   <div class="col-md-3 text-center">
     <h5>Isle of Jose</h5>
-    <img class="img-fluid img-thumbnail" src="/assets/territory/isle-of-jose.png"></div>
+    <img class="img-fluid img-thumbnail" src="/assets/territory/isle-of-jose.png">
+    120 sq. ft / 11 m<sup>2</sup>
+  </div>
   <div class="col-md-3 text-center">
     <h5>Split Isle &amp; Ellen Isle </h5>
     <img class="img-fluid img-thumbnail" src="/assets/territory/ellen-isle.png">
+    320 sq. ft / 16 m<sup>2</sup>
   </div>
 </div>
 
 Besides the claims to the Isles, the Dominion has two palaces. One is located in the Twin Beaches and is the Imperial
-Palace, the other is home to Duke Allen and Duchess Jane, the Emperor's parents.
+Palace (7800 sq. ft / 2377 m<sup>2</sup>), the other is home to Duke Allen and Duchess Jane, the Emperor's parents (3 acres / 12141 m<sup>2</sup>).
