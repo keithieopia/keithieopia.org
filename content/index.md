@@ -68,3 +68,30 @@
     </div>
   </div>
 </div>
+
+<div class="row mb-2">
+
+  <div class="offset-md-3 col-md-6">
+    <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+      <div class="col p-4 d-flex flex-column position-static">
+        <h3>News</h3>
+
+
+        <ul>
+          <li><a href="/?krubles-minted">Ministry of Finance Prints Krubles</a><br><span class="text-muted">02 Jan 2023</span>
+          <li><a href="/assets/diplomacy/hokoria.pdf">Emperor Recognizes Hokoria</a><br><span class="text-muted">02 Jan 2023</span>
+          <li><a href="/assets/diplomacy/fesmarian-union.pdf">Emperor Recognizes the Fesmarian Union</a><br><span class="text-muted">01 Jan 2023</span>
+          <li><a href="/assets/diplomacy/emirate-of-almajidistan.pdf">Emperor Recognizes the Emirate of Almajidistan</a><br><span class="text-muted">31 Dec 2022</span>
+          <li><a href="/assets/diplomacy/kingdom-of-salanda.pdf">Emperor Recognizes the Kingdom of Salanda</a><br><span class="text-muted">24 Dec 2022</span>
+        </ul>
+
+      </div>
+      <div class="col-auto d-none d-lg-block">
+        <div class="d-flex flex-wrap align-items-center h-100">
+        <i class="fa fa-newspaper fa-6x p-4"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+</div>
