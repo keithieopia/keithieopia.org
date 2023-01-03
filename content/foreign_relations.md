@@ -5,7 +5,7 @@ Title: Foreign Relations
 # Foreign Relations
 Any country who diplomatically recognizes the Dominion is automatically recognized under Keithieopian law. 
 Furthermore, the Dominion recognizes the following non-reciprocating nations: all United Nation countries, 
-the [Principality of Sealand](https://sealandgov.org/) and the [Republic of Molossia](https://www.molossia.org/).
+the [Principality of Sealand](https://sealandgov.org/), the [Republic of Molossia](https://www.molossia.org/), and [Westarctica](https://westarctica.info).
 
 All nations are highly encouraged to [contact](/?contact) the Dominion. 
 
