@@ -19,6 +19,6 @@ The one kruble denomination of the currency was first unveiled almost a year ago
 
 The Ministry of Finance also released the current exchange rates. 𝒦1 is equivalent to $2.99 USD or €2.80. Under law, the Kruble is pegged to the cost of a loaf of bread or a two gallon jug of milk, whichever is higher.
 
-The nation's economy now stands at 𝒦148 ($442.52 USD or €414.40). Government spending is down from prior years, at 𝒦59.44 for year 2022. "Our nation continues to grow, both diplomatically and financially" remarked Emperor Keith.
+The nation's economy now stands at 𝒦148 ($442.52 USD or €414.40). Government spending is down from prior years, at 𝒦129.62 for year 2022. "Our nation continues to grow, both diplomatically and financially" remarked Emperor Keith.
 
 
