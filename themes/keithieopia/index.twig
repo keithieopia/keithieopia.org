@@ -68,14 +68,27 @@
     </div>
     <div class="px-3 py-2 border-bottom bg-green">
       <div class="container d-flex flex-wrap justify-content-center">
-        <form class="col-12 col-lg-auto mb-2 mb-lg-0 me-lg-auto">
+        <form class="col-md-3">
 	  <button type="button" class="btn btn-light opacity-50 text-dark me-2" onclick="location.href = '//wiki.keithieopia.org/doku.php?id=imperial_measurements#time';">
             Time: 
            <span id="clock"></span>
           </button>
-	</form
+	</form>
 
-        <div class="text-end">
+        <form class="col-md-6 text-center" id="search_form" action="{{ base_url }}/?search">
+          <input class="btn btn-light opacity-75 text-dark" type="search" id="search_input" name="q" placeholder="Search..." value="{{ search_terms|e('html_attr') }}" >
+        </form>
+
+<script type="text/javascript">
+    // Intercept form submit and go to the search results page directly, avoiding a redirect
+    document.getElementById('search_form').addEventListener('submit', function (e) {
+        var search_terms = document.getElementById('search_input').value;
+        location.href = '{{ "search"|link }}/' + encodeURIComponent(search_terms);
+        e.preventDefault();
+    });
+</script>
+
+        <div class="col-md-3 text-end">
           <button type="button" class="btn btn-light opacity-50 text-dark me-2" onclick="location.href = '//wiki.keithieopia.org/doku.php?id=imperial_measurements#dates';">
             Today is: <span id="date"></span>
 	  </button>
@@ -86,7 +99,7 @@
 
 <main class="flex-shrink-0 pt-3 pb-6">
   <div class="container">
-    {{ content }}
+    {% block content %}{{ content }}{% endblock %}
   </div>
 </main>
 
