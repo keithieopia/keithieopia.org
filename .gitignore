@@ -1,20 +1,15 @@
 .htaccess
 config/
 plugins/
+themes/default/
 LICENSE
 index.php
 
 # Linux
 *~
 *.swp
+*.save
 
-# Windows
-Thumbs.db
-desktop.ini
-
-# Mac OS X
-.DS_Store
-._*
 
 # Composer
 /composer.*
