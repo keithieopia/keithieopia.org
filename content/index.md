@@ -77,12 +77,12 @@
         <h3>News</h3>
 
 
-        <ul>
-          <li><a href="/?krubles-minted">Ministry of Finance Prints Krubles</a><br><span class="text-muted">02 Jan 2023</span>
-          <li><a href="/assets/diplomacy/hokoria.pdf">Emperor Recognizes Hokoria</a><br><span class="text-muted">02 Jan 2023</span>
-          <li><a href="/assets/diplomacy/fesmarian-union.pdf">Emperor Recognizes the Fesmarian Union</a><br><span class="text-muted">01 Jan 2023</span>
-          <li><a href="/assets/diplomacy/emirate-of-almajidistan.pdf">Emperor Recognizes the Emirate of Almajidistan</a><br><span class="text-muted">31 Dec 2022</span>
-          <li><a href="/assets/diplomacy/kingdom-of-salanda.pdf">Emperor Recognizes the Kingdom of Salanda</a><br><span class="text-muted">24 Dec 2022</span>
+        <ul class="fa-ul">
+          <li><i class="fa fa-money-bill"></i> <a href="/?krubles-minted">Ministry of Finance Prints Krubles</a><br><span class="text-muted m-4">02 Jan 2023</span>
+          <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/hokoria.pdf">Emperor Recognizes Hokoria</a><br><span class="text-muted m-4">02 Jan 2023</span>
+          <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/fesmarian-union.pdf">Emperor Recognizes the Fesmarian Union</a><br><span class="text-muted m-4">01 Jan 2023</span>
+          <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/emirate-of-almajidistan.pdf">Emperor Recognizes the Emirate of Almajidistan</a><br><span class="text-muted m-4">31 Dec 2022</span>
+          <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/kingdom-of-salanda.pdf">Emperor Recognizes the Kingdom of Salanda</a><br><span class="text-muted m-4">24 Dec 2022</span>
         </ul>
 
       </div>
