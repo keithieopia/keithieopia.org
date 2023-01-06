@@ -6,7 +6,7 @@ Hidden: true
 # Ministry of Finance Prints Krubles
 
 FOR IMMEDIATE RELEASE  
-2 Dosmar 21 IY  
+2 Unomar 21 IY  
 2 Jan. 2023  
 
 <img class="d-inline col-md-3 m-3 img-thumbnail float-end" src="/assets/krubles.png">
