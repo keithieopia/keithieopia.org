@@ -78,6 +78,7 @@
 
 
         <ul class="fa-ul">
+          <li><i class="fa fa-money-bill"></i> <a href="/?ethereum">Dominion Diversifies Investments</a><br><span class="text-muted m-4">06 Jan 2023</span>
           <li><i class="fa fa-money-bill"></i> <a href="/?krubles-minted">Ministry of Finance Prints Krubles</a><br><span class="text-muted m-4">02 Jan 2023</span>
           <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/hokoria.pdf">Emperor Recognizes Hokoria</a><br><span class="text-muted m-4">02 Jan 2023</span>
           <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/fesmarian-union.pdf">Emperor Recognizes the Fesmarian Union</a><br><span class="text-muted m-4">01 Jan 2023</span>
