@@ -45,6 +45,10 @@ Dominion to start diplomacy.
     <h6>Hokoria</h6>
     <img class="img-thumbnail" src="/assets/flags/hokoria.png">
   </div>
+  <div class="col-md-2 text-center">
+    <h6>Kingdom of Suteria</h6>
+    <img class="img-thumbnail" src="/assets/flags/suteria.jpg">
+  </div>
 </div>
 
 
