@@ -1,0 +1,78 @@
+{% extends "index.twig" %}
+
+{% block content %}
+<div class="jumbotron">
+<div class="row">
+  
+    <div class="column column-50 padding">
+      <h1><em>Welcome!</em></h1>
+      <p>It is my great honor, as His Imperial Highness Keith, to welcome you in the Dominion of Keithieopia.</p>
+
+      As Emperor, my duties are:<br><br>
+
+      <ul class="fa-ul">
+        <li><i class="fa fa-li fa-file-contract"></i> To defend the Constitution and safeguard its application</li>
+        <li><i class="fa fa-li fa-handshake"></i> Establish relations with other sovereign nations</li>
+        <li><i class="fa fa-li fa-medal"></i> Appoint members to the Royal Orders of Keithieopia</li>
+        <li class="font-italic"><i class="fa fa-li fa-hand-holding-heart"></i> To promote Keithieopian values to the world</li>
+      </ul>
+    </div>
+
+    <div class="column column-50">
+      <img class="" src="/assets/portrait.jpg">
+    </div>
+  </div><!-- row -->
+</div>
+
+<div class="row margin-top">
+  <div class="column column-50">
+    <div class="box padding">
+    <i class="icon fa fa-balance-scale fa-6x float-right"></i>
+    <h3>Government</h3>
+
+    <ul class="fa-ul">
+      <li><i class="fa fa-li fa-crown"></i> <span><a href="/?chancellery">The Chancellery</a></span>
+      <li><i class="fa fa-li fa-user-tie"></i> <span><a href="/?premier">The Premier</a></span>   
+      <li><i class="fa fa-li fa-sitemap"></i> <span><a href="/?ministry">The Ministry</a></span>
+      <li><i class="fa fa-li fa-vote-yea"></i> <span><a href="/?national_assembly">The National Assembly</a></span>
+      <li><i class="fa fa-li fa-gavel"></i> <span><a href="/?high_court">The High Court</a></span>
+      <li><i class="fa fa-li fa-people-roof"></i> <span><a href="/?shires">Shires</a></span>
+    </ul>
+    </div>
+  </div>
+
+  <div class="column column-50">
+    <div class="box padding">
+    <i class="icon fa fa-file-lines fa-6x float-right"></i>
+    <h3>Documents</h3>
+
+    <ul class="fa-ul">
+      <li><i class="fa fa-li fa-scroll"></i> <a href="https://wiki.keithieopia.org/doku.php?id=docs:third_constitution">Constitution</a>
+      <li><i class="fa fa-li fa-bullhorn"></i> <a href="/?independence">Reaffirmation of Independence</a>
+      <li><i class="fa fa-li fa-section"></i> <a href="https://wiki.keithieopia.org/doku.php?id=kcn:start">Code of Laws</a>
+      <li><i class="fa fa-li fa-handshake"></i> <a href="/?diplomacy">Diplomacy</a>
+	    <li><i class="fa fa-li fa-house-flag"></i> <a href="https://wiki.keithieopia.org/doku.php?id=docs:annex">Territorial Claims</a>
+      <li><i class="fa fa-li fa-book"></i> <a href="https://wiki.keithieopia.org">Online Library System</a>
+    </ul>
+    </div>
+  </div>
+</div><!-- row -->
+
+<div class="row margin-top">
+  <div class="column">
+    <div class="box padding">
+      <i class="icon fa fa-newspaper fa-6x float-right"></i>
+      <h3>News</h3>
+
+      <ul class="fa-ul">
+      {% for page in pages %}
+        {% if page.date %}
+        <li><i class="fa fa-bullhorn"></i> <a href="{{ page.url }}">{{ page.title }}</a> &mdash; {{ page.date }}</li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div><!-- box -->
+  </div><!-- column -->
+</div><!-- row -->
+
+{% endblock content %}
