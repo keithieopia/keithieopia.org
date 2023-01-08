@@ -1,52 +1,193 @@
 body { 
   min-height: 100vh; 
   background-image: url('/themes/keithieopia/img/subtle_dots.png');
-  font-family: "Andika", sans-serif;
+  font-family: "Andika";
 }
 
-.bg-teal {
-  background-color: #008c9e;
+/* ----- COLORS ----- */
+
+.bg-teal { background-color: #008c9e; }
+.bg-green { 
+  background-color: #042608; 
+  color: #FFF;
+}
+.bg-green a {
+  color: #FFF;
 }
 
-.bg-green {
-  background-color: #042608;
-}
+.green, .green a , .green a:hover { color: #042608; }
+.teal, a .teal, a:hover .teal { color: #008c9e; }
+.white { color: #FFF; }
 
-.text-green, a:hover.text-green, a:visited.text-green {
-  color: #042608;
-}
 
-.text-teal, a:hover.text-teal, a:visited.text-teal {
-  color: #008c9e;
-}
-
-.invert {
-  filter: invert(100%);
-}
-
-.fnt-barlow {
-  font-family: "Barlow Condensed", sans-serif;
-}
-
-.logo { 
-  height: 5em;
-}
-
+/* ----- FONTS ----- */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Anton", sans-serif;
+  font-family: Raleway;
+  font-weight: bold;
+}
+
+.small-caps { font-variant: small-caps; }
+
+header h3, h6 {
+  font-weight: normal;
+}
+
+.padding-top {
+  padding-top: 1em;
+}
+
+.margin-top {
+  margin-top: 1em;
+}
+
+.padding {
+  padding: 1em 2em !important;
+}
+
+header {
+  padding: 1em 0;
+}
+
+form {
+  margin-bottom: 0;
+}
+
+header h6, header h2 {
+  display: inline;
+}
+
+.logo {
+  width: 6em;
+  vertical-align: bottom;
+}
+
+.logo-big {
+  width: 12em;
+}
+
+.img {
+  width: 16em;
+  display: inline-block;
+  float: right;
+  transition: 0.5s;
+  margin-left: 1em;
+}
+
+.img:hover {
+  position: relative;
+  transform: scale(2);
+  z-index: 100;
+  border: 1px solid #FFF;
+  background-color: rgba(255,255,255,0.75);
+}
+
+nav ul li {
+  font-family: Raleway;
+  display: inline-block;
+}
+nav ul li:after {
+  color: #FFF;
+  content: "\269C";
+  padding: 1em;
+}
+
+nav ul li:last-child:after {
+  content: "";
+  padding: 0;
+}
+
+nav ul li a:hover {
+  color: #FFF;
+  text-transform: uppercase;
+}
+
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+
+button {
+  background-color: rgba(255,255,255,0.25);
+  border-color:rgba(255,255,255,0.25);
+  font-weight: normal;
+}
+
+button:hover {
+  background-color: #042608;
+  border-color: rgba(255,255,255,0.25);
+}
+
+input[type="search"] {
+  background-color: rgba(255,255,255,0.50);
+}
+input[type="search"]::placeholder {
+  color: #FFF;
+}
+
+main h1, main h2, main h3, main h4, main h5, main h6 {
   color: #008c98;
 }
 
-.text-small-caps {
-  font-variant: small-caps;
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
+  font-family: 'Anton';
+  text-transform: uppercase;
+  font-weight: normal;
 }
 
-a, a:visited {
+footer ul {
+  margin-left: 0 !important;
+}
+
+.jumbotron {
+  color: #FFF;
+  background-color: #212529;
+  border-radius: 1em;
+}
+
+.jumbotron h1 {
+  font-family: 'Anton';
+}
+
+.jumbotron .column {
+  padding: 0;
+}
+
+.jumbotron img {
+  float: right;
+  margin-right: .6em;
+  border: 1px solid #212529;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+}
+
+.box { 
+  border-radius: 1em;
+  border: 1px solid #212529;
+  background-color: #FFF;
+}
+
+.box h3 {
+  font-family: "Anton" !important;
+  color: #008c98 !important;
+}
+
+.box .icon {
+  padding-top: 1em;
+  color: #008c98;
+}
+
+main {
+  min-height: 60vh;
+}
+
+main a, main a:visited {
   color: #008c98;
   text-decoration: none;
 }
 
-a:hover {
+main a:hover {
   color: #008c98;
   text-decoration: underline;
   opacity: 0.8;
