@@ -26,10 +26,7 @@ We invite other nations and the larger international community to recognize Keit
 
 I, Keith of Keithieopia, and by the will of the people, Emperor Keith, do voluntarily and by free exercise of my sovereignty do sign the present declaration, on the 22nd day of the month of December in the year of 2022. In the Imperial Calendar, day 26th of Keithmar 20.
 
-<center>
-  <img class="col-md-3" src="/assets/signature.png"><br>
-  <strong>KEITH OF KEITHIEOPIA</strong>
-</center>
+<img class="img" src="/assets/signature.png"><br><br><br>
+<div class="text-right"><strong>KEITH OF KEITHIEOPIA</strong></div>
 
-<div class="text-end"><sup><abbr title="Keithieopian Control Number">KCN</abbr>-2022-16</sup></div>
 

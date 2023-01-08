@@ -24,31 +24,35 @@ Proclamations of official recognition can be [found here](https://wiki.keithieop
 Dominion is very liberal with formal recognition, all nations are highly encouraged to [contact](/?contact) the 
 Dominion to start diplomacy. 
 
-<div class="row m-5">
-  <div class="col-md-2 text-center">
-    <h6>Peoples' Constitutional Monarchy of the Arcanum of Relica</h6>
-    <img class="img-thumbnail" src="/assets/flags/parsecha.png">
+<div class="row">
+  <div class="column text-center">
+    <img class="img" src="/assets/flags/parsecha.png">
+    <h5>Peoples' Constitutional Monarchy of the Arcanum of Relica</h5>
   </div>
-  <div class="col-md-2 text-center">
-    <h6>Kingdom of Salanda</h6>
-    <img class="img-thumbnail" src="/assets/flags/salanda.png">
+  <div class="column text-center">
+    <img class="img" src="/assets/flags/salanda.png">
+    <h5>Kingdom of Salanda</h5>
   </div>
-  <div class="col-md-2 text-center">
-    <h6>The Emirate of Almajidistan</h6>
-    <img class="img-thumbnail" src="/assets/flags/almajidistan.png">
+  <div class="column text-center">
+    <img class="img" src="/assets/flags/almajidistan.png">
+    <h5>The Emirate of Almajidistan</h5>
   </div>
-  <div class="col-md-2 text-center">
-    <h6>The Fesmarian Union</h6>
-    <img class="img-thumbnail" src="/assets/flags/fesmar.jpg">
+  <div class="column text-center">
+    <img class="img" src="/assets/flags/fesmar.jpg">
+    <h5>The Fesmarian Union</h5>
   </div>
-  <div class="col-md-2 text-center">
-    <h6>Hokoria</h6>
-    <img class="img-thumbnail" src="/assets/flags/hokoria.png">
+</div>
+<div class="row">
+  <div class="column text-center"></div>
+  <div class="column text-center">
+    <span><img class="img" src="/assets/flags/hokoria.png">
+    <h5>Hokoria</h5>
   </div>
-  <div class="col-md-2 text-center">
-    <h6>Kingdom of Suteria</h6>
-    <img class="img-thumbnail" src="/assets/flags/suteria.jpg">
+  <div class="column text-center">
+    <img class="img" src="/assets/flags/suteria.jpg">
+    <h5>Kingdom of Suteria</h5>
   </div>
+  <div class="column text-center"></div>
 </div>
 
 

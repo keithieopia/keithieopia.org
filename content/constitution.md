@@ -14,11 +14,13 @@ Hidden: true
   - *Resolved* that the people strengthen their nation's under this thirdly revised constitution; and
   - *Resolved* that I, Emperor Keith of the Dominion of Keithieopia, first citizen of Keithieopia, do therefore sign this Constitution as the supreme law of the land.
 
-<center>
-  <img class="col-md-3" src="/assets/signature.png"><br>
-  <strong>KEITH OF KEITHIEOPIA</strong><br>
+  <center>
   <em>( Resolved 27th Unomar 19 IY &#10234; January 27th, 2021 HY )</em><br>
-</center>
+  </center>
+
+  <img class="img" src="/assets/signature.png"><br><br><br>
+  <div class="text-right"><strong >KEITH OF KEITHIEOPIA</strong></div>
+
   
 ---
   

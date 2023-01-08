@@ -4,8 +4,7 @@ Hidden: true
 ---
 
 # Shires
-Shires are regional areas in the Dominion of Keithieopia under [home rule](https://en.wikipedia.org/wiki/Home_rule_in_the_United_States). 
-Shires have a local government under the authority of an elected Sheriff. In some cases, shires are further split 
+Shires are regional areas in the Dominion of Keithieopia under [home rule](https://en.wikipedia.org/wiki/Home_rule_in_the_United_States). Shires have a local government under the authority of an elected Sheriff. In some cases, shires are further split 
 into smaller regions called bailiwicks, which are under the authority of a bailiff appointed by the governing sheriff.
 
 - **Battleshire** &mdash; named after Battle Creek
