@@ -85,7 +85,6 @@
           <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/emirate-of-almajidistan.pdf">Emperor Recognizes the Emirate of Almajidistan</a><br><span class="text-muted m-4">31 Dec 2022</span>
           <li><i class="fa fa-handshake"></i> <a href="/assets/diplomacy/kingdom-of-salanda.pdf">Emperor Recognizes the Kingdom of Salanda</a><br><span class="text-muted m-4">24 Dec 2022</span>
         </ul>
-
       </div>
       <div class="col-auto d-none d-lg-block">
         <div class="d-flex flex-wrap align-items-center h-100">
@@ -93,6 +92,5 @@
         </div>
       </div>
     </div>
-  </div>
- 
+  </div> 
 </div>
