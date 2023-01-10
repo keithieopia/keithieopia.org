@@ -71,6 +71,7 @@ header h6, header h2 {
   float: right;
   transition: 0.5s;
   margin-left: 1em;
+  border-radius: 1em;
 }
 
 .img:hover {
