@@ -172,6 +172,7 @@ footer ul {
 .box h3 {
   font-family: "Anton" !important;
   color: #008c98 !important;
+  font-weight: normal !important;
 }
 
 .box .icon {
